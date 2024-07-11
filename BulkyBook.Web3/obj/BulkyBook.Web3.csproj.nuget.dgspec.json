@@ -1,0 +1,373 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\BulkyBook.Web3.csproj": {}
+  },
+  "projects": {
+    "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.DataAccess3\\BulkyBook.DataAccess3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.DataAccess3\\BulkyBook.DataAccess3.csproj",
+        "projectName": "BulkyBook.DataAccess3",
+        "projectPath": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.DataAccess3\\BulkyBook.DataAccess3.csproj",
+        "packagesPath": "C:\\Users\\tanvir\\.nuget\\packages\\",
+        "outputPath": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.DataAccess3\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tanvir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Models3\\BulkyBook.Models3.csproj": {
+                "projectPath": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Models3\\BulkyBook.Models3.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[44.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Models3\\BulkyBook.Models3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Models3\\BulkyBook.Models3.csproj",
+        "projectName": "BulkyBook.Models3",
+        "projectPath": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Models3\\BulkyBook.Models3.csproj",
+        "packagesPath": "C:\\Users\\tanvir\\.nuget\\packages\\",
+        "outputPath": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Models3\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tanvir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[44.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Utilities3\\BulkyBook.Utilities3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Utilities3\\BulkyBook.Utilities3.csproj",
+        "projectName": "BulkyBook.Utilities3",
+        "projectPath": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Utilities3\\BulkyBook.Utilities3.csproj",
+        "packagesPath": "C:\\Users\\tanvir\\.nuget\\packages\\",
+        "outputPath": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Utilities3\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tanvir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[44.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\BulkyBook.Web3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\BulkyBook.Web3.csproj",
+        "projectName": "BulkyBook.Web3",
+        "projectPath": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\BulkyBook.Web3.csproj",
+        "packagesPath": "C:\\Users\\tanvir\\.nuget\\packages\\",
+        "outputPath": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tanvir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.DataAccess3\\BulkyBook.DataAccess3.csproj": {
+                "projectPath": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.DataAccess3\\BulkyBook.DataAccess3.csproj"
+              },
+              "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Models3\\BulkyBook.Models3.csproj": {
+                "projectPath": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Models3\\BulkyBook.Models3.csproj"
+              },
+              "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Utilities3\\BulkyBook.Utilities3.csproj": {
+                "projectPath": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Utilities3\\BulkyBook.Utilities3.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[44.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

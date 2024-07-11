@@ -1,0 +1,121 @@
+﻿@model ProductViewModel
+@{
+    if (Model.Product.Id != 0)
+    {
+        ViewData["Title"] = "Update Product";
+    }
+    else
+    {
+        ViewData["Title"] = "Create Product";
+    }
+}
+
+<div class="container mb-5">
+    <div class="card shadow">
+        <div class="card-header p-3 bg-primary">
+            <div class="d-flex align-items-center">
+                <div class="">
+                    <a asp-controller="Product" asp-action="Index" class="btn btn-outline-light"><i class="bi bi-arrow-left"></i></a>
+                </div>
+                <div class="w-100">
+                    <p class="h2 text-center text-light">@(Model.Product.Id != 0 ? "Update" : "Create") a product</p>
+                </div>
+            </div>
+        </div>
+        <div class="card-body p-3">
+            <div class="row">
+                <div class="col-10">
+                    <form method="post" enctype="multipart/form-data">
+                        <input asp-for="Product.Id" hidden />
+                        <input asp-for="Product.ImageUrl" hidden />
+                        <div class=" form-floating mb-2">
+                            <input asp-for="Product.Title" class="form-control" />
+                            <label asp-for="Product.Title" class="form-label"></label>
+                            <span asp-validation-for="Product.Title" class="text-danger"></span>
+                        </div>
+                        <div class="mb-2">
+                            <label asp-for="Product.Description" class="form-label text-muted mx-2"></label>
+                            <textarea asp-for="Product.Description" class=""></textarea>
+                        </div>
+                        <div class="form-floating mb-2">
+                            <input asp-for="Product.ISBN" class="form-control" />
+                            <label asp-for="Product.ISBN" class="form-label"></label>
+                            <span asp-validation-for="Product.ISBN" class="text-danger"></span>
+                        </div>
+                        <div class="form-floating mb-2">
+                            <input asp-for="Product.Author" class="form-control" />
+                            <label asp-for="Product.Author" class="form-label"></label>
+                            <span asp-validation-for="Product.Author" class="text-danger"></span>
+                        </div>
+                        <div class="form-floating mb-2">
+                            <input asp-for="Product.ListPrice" class="form-control" />
+                            <label asp-for="Product.ListPrice" class="form-label"></label>
+                            <span asp-validation-for="Product.ListPrice" class="text-danger"></span>
+                        </div>
+                        <div class="form-floating mb-2">
+                            <input asp-for="Product.Price" class="form-control" />
+                            <label asp-for="Product.Price" class="form-label"></label>
+                            <span asp-validation-for="Product.Price" class="text-danger"></span>
+                        </div>
+                        <div class="form-floating mb-2">
+                            <input asp-for="Product.Price50" class="form-control" />
+                            <label asp-for="Product.Price50" class="form-label"></label>
+                            <span asp-validation-for="Product.Price50" class="text-danger"></span>
+                        </div>
+                        <div class="form-floating mb-2">
+                            <input asp-for="Product.Price100" class="form-control" />
+                            <label asp-for="Product.Price100" class="form-label"></label>
+                            <span asp-validation-for="Product.Price100" class="text-danger"></span>
+                        </div>
+                        <div class="form-floating mb-2">
+                            <select asp-for="Product.CategoryId" asp-items="@Model.CategoryList" class="form-select">
+                                <option selected disabled>--Selete Category--</option>
+                            </select>
+                            <label asp-for="Product.CategoryId" class="form-label"></label>
+                            <span asp-validation-for="Product.CategoryId" class="text-danger"></span>
+                        </div>
+                        <div class="form-floating mb-2">
+                            <input type="file" name="file" asp-for="Product.ImageUrl" class="form-control" />
+                            <label asp-for="Product.ImageUrl" class="form-label"></label>
+                            <span asp-validation-for="Product.ImageUrl" class="text-danger"></span>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-6 col-sm-12">
+                                @if (Model.Product.Id != 0)
+                                {
+                                    <button type="submit" class="btn btn-primary w-100">Update</button>
+                                }
+                                else
+                                {
+                                    <button type="submit" class="btn btn-primary w-100">Create</button>
+
+                                }
+                            </div>
+                            <div class="col-lg-6 col-sm-12">
+                                <a asp-controller="Product" asp-action="Index" class="btn btn-outline-dark w-100">Back to product list</a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="col-2">
+                    <img src="@Model.Product.ImageUrl" width="100%" style="border-radius:5px; border:1px solid #fff " />
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <script>
+        tinymce.init({
+            selector: 'textarea',
+            plugins: 'anchor autolink charmap codesample emoticons image link lists searchreplace visualblocks wordcount linkchecker',
+            toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline | link image media table | align lineheight | numlist bullist | emoticons',
+        });
+    </script>
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

@@ -1,0 +1,24 @@
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.Utilities3\bin\Debug\net8.0\BulkyBook.Utilities3.deps.json
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.Utilities3\bin\Debug\net8.0\BulkyBook.Utilities3.dll
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.Utilities3\bin\Debug\net8.0\BulkyBook.Utilities3.pdb
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.Utilities3\obj\Debug\net8.0\BulkyBook.Utilities3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.Utilities3\obj\Debug\net8.0\BulkyBook.Utilities3.AssemblyInfoInputs.cache
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.Utilities3\obj\Debug\net8.0\BulkyBook.Utilities3.AssemblyInfo.cs
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.Utilities3\obj\Debug\net8.0\BulkyBook.Utilities3.csproj.CoreCompileInputs.cache
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.Utilities3\obj\Debug\net8.0\BulkyBook.Utilities3.dll
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.Utilities3\obj\Debug\net8.0\refint\BulkyBook.Utilities3.dll
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.Utilities3\obj\Debug\net8.0\BulkyBook.Utilities3.pdb
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.Utilities3\obj\Debug\net8.0\ref\BulkyBook.Utilities3.dll
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.Utilities3\obj\Debug\net8.0\BulkyBook.Utilities3.csproj.AssemblyReference.cache
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Utilities3\bin\Debug\net8.0\BulkyBook.Utilities3.deps.json
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Utilities3\bin\Debug\net8.0\BulkyBook.Utilities3.dll
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Utilities3\bin\Debug\net8.0\BulkyBook.Utilities3.pdb
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Utilities3\obj\Debug\net8.0\BulkyBook.Utilities3.csproj.AssemblyReference.cache
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Utilities3\obj\Debug\net8.0\BulkyBook.Utilities3.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Utilities3\obj\Debug\net8.0\BulkyBook.Utilities3.AssemblyInfoInputs.cache
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Utilities3\obj\Debug\net8.0\BulkyBook.Utilities3.AssemblyInfo.cs
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Utilities3\obj\Debug\net8.0\BulkyBook.Utilities3.csproj.CoreCompileInputs.cache
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Utilities3\obj\Debug\net8.0\BulkyBook.Utilities3.dll
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Utilities3\obj\Debug\net8.0\refint\BulkyBook.Utilities3.dll
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Utilities3\obj\Debug\net8.0\BulkyBook.Utilities3.pdb
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Utilities3\obj\Debug\net8.0\ref\BulkyBook.Utilities3.dll

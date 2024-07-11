@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyBook.Web3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BulkyBook.Web3.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\images\\product\\1a5709aa-a050-4a90-aba0-4460a593ba55.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\1a5709aa-a050-4a90-aba0-4460a593ba55.jpg"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\images\\product\\53da28e4-bf05-4a72-aa9a-ceb451e48d73.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\53da28e4-bf05-4a72-aa9a-ceb451e48d73.jpg"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\images\\product\\5fed03ea-5b31-4afa-91e5-16cc410da295.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\5fed03ea-5b31-4afa-91e5-16cc410da295.jpg"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\images\\product\\78600253-ebbe-472b-9677-4d6776b27f04.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\78600253-ebbe-472b-9677-4d6776b27f04.jpg"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\images\\product\\7e537139-cb16-4657-b870-62bb1d5c8a4f.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\7e537139-cb16-4657-b870-62bb1d5c8a4f.jpg"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\images\\product\\d6fa429e-c04d-4e90-8525-18958dcf9d51.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\d6fa429e-c04d-4e90-8525-18958dcf9d51.jpg"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\js\\category.js",
+      "PackagePath": "staticwebassets\\js\\category.js"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\sandstone-bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\sandstone-bootstrap.css"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\sandstone-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\sandstone-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\css\\solar-bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\solar-bootstrap.css"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\My Files\\Projects\\C#-project\\.NET Project\\.Net-8\\Bulky3\\BulkyBook.Web3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BulkyBook.Web3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BulkyBook.Web3.props",
+      "PackagePath": "build\\BulkyBook.Web3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyBook.Web3.props",
+      "PackagePath": "buildMultiTargeting\\BulkyBook.Web3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BulkyBook.Web3.props",
+      "PackagePath": "buildTransitive\\BulkyBook.Web3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

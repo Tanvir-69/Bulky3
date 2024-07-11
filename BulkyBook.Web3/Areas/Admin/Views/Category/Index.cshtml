@@ -1,0 +1,32 @@
+﻿@model List<Category>
+@{
+    ViewData["Title"] = "Categpry";
+}
+
+<div class="container mb-5">
+    <div class="card shadow">
+        <div class="card-header p-3 bg-primary">
+            <p class="h2 text-center text-light">Category List</p>
+        </div>
+        <div class="card-body p-2">
+            <div class="d-flex justify-content-end mb-2">
+                <a class="btn btn-primary p-3 align-items-center" asp-controller="Category" asp-action="Upsert">
+                    <i class="bi bi-plus-circle" style="font-size:13px"></i> Create a category
+                </a>
+            </div>
+            <table id="categoryDataTable" class="table table-bordered table-striped w-100">
+                <thead>
+                    <tr>
+                        <td>Name</td>
+                        <td>Display Order</td>
+                        <td>Actions</td>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="~/js/category.js"></script>
+}

@@ -1,0 +1,30 @@
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.DataAccess3\bin\Debug\net8.0\BulkyBook.DataAccess3.deps.json
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.DataAccess3\bin\Debug\net8.0\BulkyBook.DataAccess3.dll
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.DataAccess3\bin\Debug\net8.0\BulkyBook.DataAccess3.pdb
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\BulkyBook.DataAccess3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\BulkyBook.DataAccess3.AssemblyInfoInputs.cache
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\BulkyBook.DataAccess3.AssemblyInfo.cs
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\BulkyBook.DataAccess3.csproj.CoreCompileInputs.cache
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\BulkyBook.DataAccess3.dll
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\refint\BulkyBook.DataAccess3.dll
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\BulkyBook.DataAccess3.pdb
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\ref\BulkyBook.DataAccess3.dll
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\BulkyBook.DataAccess3.csproj.AssemblyReference.cache
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.DataAccess3\bin\Debug\net8.0\BulkyBook.Models3.dll
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.DataAccess3\bin\Debug\net8.0\BulkyBook.Models3.pdb
+F:\Tanvir\Projects\Dotnet 8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\BulkyBoo.5B359C54.Up2Date
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.DataAccess3\bin\Debug\net8.0\BulkyBook.DataAccess3.deps.json
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.DataAccess3\bin\Debug\net8.0\BulkyBook.DataAccess3.dll
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.DataAccess3\bin\Debug\net8.0\BulkyBook.DataAccess3.pdb
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.DataAccess3\bin\Debug\net8.0\BulkyBook.Models3.dll
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.DataAccess3\bin\Debug\net8.0\BulkyBook.Models3.pdb
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\BulkyBook.DataAccess3.csproj.AssemblyReference.cache
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\BulkyBook.DataAccess3.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\BulkyBook.DataAccess3.AssemblyInfoInputs.cache
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\BulkyBook.DataAccess3.AssemblyInfo.cs
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\BulkyBook.DataAccess3.csproj.CoreCompileInputs.cache
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\BulkyBoo.5B359C54.Up2Date
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\BulkyBook.DataAccess3.dll
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\refint\BulkyBook.DataAccess3.dll
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\BulkyBook.DataAccess3.pdb
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\ref\BulkyBook.DataAccess3.dll

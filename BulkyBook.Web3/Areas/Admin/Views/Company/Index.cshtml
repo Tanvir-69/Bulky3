@@ -1,0 +1,34 @@
+﻿@model List<Company>
+@{
+    ViewData["Title"] = "Company";
+}
+
+<div class="container mb-5">
+    <div class="card shadow">
+        <div class="card-header p-3 bg-primary">
+            <p class="h2 text-center text-light">Company List</p>
+        </div>
+        <div class="card-body p-2">
+            <div class="d-flex justify-content-end mb-2">
+                <a class="btn btn-primary p-1 align-items-center" asp-controller="Company" asp-action="Upsert">
+                    <i class="bi bi-plus-circle" style="font-size:13px"></i> Create a Company
+                </a>
+            </div>
+            <table id="companyDataTable" class="table table-bordered table-striped w-100">
+                <thead>
+                    <tr>
+                        <td>Name</td>
+                        <td>Phone Number</td>
+                        <td>Address</td>
+                        <td>Postal Code</td>
+                        <td>Actions</td>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/company.js"></script>
+}
