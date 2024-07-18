@@ -588,3 +588,4 @@ D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Web3\obj\De
 D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Web3\obj\Debug\net8.0\BulkyBook.Web3.pdb
 D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Web3\obj\Debug\net8.0\BulkyBook.Web3.genruntimeconfig.cache
 D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Web3\obj\Debug\net8.0\ref\BulkyBook.Web3.dll
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Web3\obj\Debug\net8.0\BulkyBook.Web3.sourcelink.json

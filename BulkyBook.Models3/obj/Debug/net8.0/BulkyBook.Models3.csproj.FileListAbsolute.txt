@@ -26,3 +26,4 @@ D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Models3\obj
 D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Models3\obj\Debug\net8.0\BulkyBook.Models3.pdb
 D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Models3\obj\Debug\net8.0\BulkyBook.Models3.genruntimeconfig.cache
 D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Models3\obj\Debug\net8.0\ref\BulkyBook.Models3.dll
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Models3\obj\Debug\net8.0\BulkyBook.Models3.sourcelink.json

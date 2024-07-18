@@ -28,3 +28,4 @@ D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.DataAccess3
 D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\refint\BulkyBook.DataAccess3.dll
 D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\BulkyBook.DataAccess3.pdb
 D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\ref\BulkyBook.DataAccess3.dll
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.DataAccess3\obj\Debug\net8.0\BulkyBook.DataAccess3.sourcelink.json

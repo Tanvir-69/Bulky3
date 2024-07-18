@@ -22,3 +22,4 @@ D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Utilities3\
 D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Utilities3\obj\Debug\net8.0\refint\BulkyBook.Utilities3.dll
 D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Utilities3\obj\Debug\net8.0\BulkyBook.Utilities3.pdb
 D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Utilities3\obj\Debug\net8.0\ref\BulkyBook.Utilities3.dll
+D:\My Files\Projects\C#-project\.NET Project\.Net-8\Bulky3\BulkyBook.Utilities3\obj\Debug\net8.0\BulkyBook.Utilities3.sourcelink.json
